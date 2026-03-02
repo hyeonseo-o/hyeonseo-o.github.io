@@ -48,3 +48,16 @@
   padding: 2px 4px;
   margin-right: 10px;
 }
+
+/* Option 1: Italic only */
+.impact-italic {
+  font-style: italic;
+  font-weight: 500;
+}
+
+/* Option 2: Italic + Red */
+.impact-highlight {
+  font-style: italic;
+  font-weight: 600;
+  color: #b91c1c;   /* 차분한 academic red */
+}
