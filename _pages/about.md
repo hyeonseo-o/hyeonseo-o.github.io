@@ -19,7 +19,7 @@ I'm Research Student in the [Perceptual AI Lab at Chung-Ang University](https://
 <span class="tag"><strong>#Image/Video Retrieval</strong></span>
 <!-- <span class="tag"><strong>#RepresentationLearning</strong></span> -->
 <br>
-I am passionate about multi-modal AI research, particularly at the intersection of vision and language understanding.
+I'm passionate about multi-modal AI research, particularly at the intersection of vision and language understanding.
 My work focuses on image and video retrieval, domain generalization, and robust representation learning. I am interested in developing scalable learning systems that can understand complex relationships across heterogeneous modalities and generalize effectively to unseen domains.
 
 ## Publications <a id="publications"></a>
@@ -30,39 +30,38 @@ My work focuses on image and video retrieval, domain generalization, and robust 
 <span class="impact-italic">
 *SCI Top 20%, Impact Factor: 6.5*
 </span>
+<br>
 Links: [arXiv](https://arxiv.org/abs/2506.12413) [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225014353?dgcid=author) [Project page](https://github.com/PerceptualAI-Lab/Awesome-Domain-Generalizable-Person-Re-ID)
 
 ### Domestic Journal/Conference <a id="pub-domestic"></a>
-- **[2025]** *텍스트를 활용한 범용적 사람 재식별을 위한 표현자 학습 연구 *, Fall Annual Conference of IEIE, Nov. 28, 2025, **Hyeonseo Lee** and Chanho Eom.
+- **[2025]** *텍스트를 활용한 범용적 사람 재식별을 위한 표현자 학습 연구*, Fall Annual Conference of IEIE, Nov. 28, 2025, **Hyeonseo Lee** and Chanho Eom.
   <br>
   <span class="impact-highlight">
   Excellence Paper Award
   </span>
-  Links: [Paper](#) 
+  <br>
 
-- **[2025]** *인공지능을 활용한 메타버스기반 몰입형 예술 전시 플랫폼 구현*, Summer Annual Conference of IEIE, Jun. 27, 2025, Juhyun Park, Seongtae Hwang, Youngchae Kim, Giyeol Kim, **Hyeonseo Lee**, Gyuwon Han, Uksang Jang, Jongwon Choi, Jinwan Park, and Chanho Eom.  
-  Links: [Paper](#)
+- **[2025]** *인공지능을 활용한 메타버스기반 몰입형 예술 전시 플랫폼 구현*, Summer Annual Conference of IEIE, Jun. 27, 2025, Juhyun Park, Seongtae Hwang, Youngchae Kim, Giyeol Kim, **Hyeonseo Lee**, Gyuwon Han, Uksang Jang, Jongwon Choi, Jinwan Park, and Chanho Eom.
+
+- **[2025]** *Enhancing Motion Fluidity and Visual Consistency in Film Production with AI Generative Models*, Moving Image and Technology (MINT), vol. 5, no. 3, pp.1-8, Dec. 31, 2025 (ISSN: 2799-8177), **Hyeonseo Lee**, Changhyun Roh, Jihyong Oh, and Chanho Eom.  
   
-  - **[2025]** *Enhancing Motion Fluidity and Visual Consistency in Film Production with AI Generative Models *, Moving Image and Technology (MINT), vol. 5, no. 3, pp.1-8, Dec. 31, 2025 (ISSN: 2799-8177), **Hyeonseo Lee**, Changhyun Roh, Jihyong Oh, and Chanho Eom.  
-  Links: [Paper](#)
-
 ---
 
 ## Patent <a id="patent"></a>
-- **[Year]** Patent Title — Patent No. (Status: Filed/Granted)  
-  Inventors: ... | Link: [Details](#)
-
-- **[Year]** Patent Title — Patent No. (Status: Filed/Granted)  
-  Inventors: ... | Link: [Details](#)
+<!-- - **[Year]** Patent Title — Patent No. (Status: Filed/Granted)  
+  Inventors: ... | Link: [Details](#) -->
 
 ---
 
 ## Experiences <a id="experiences"></a>
 
 ### Reviewer <a id="reviewer"></a>
-- **[Year–Present]** Reviewer, *Venue/Journal/Conference Name*
-- **[Year]** Program Committee / External Reviewer, *Venue Name*
-
+- **[2024]** Reviewer, European Conference on Computer Vision (ECCV)
+- **[2024]** Reviewer, IEEE Conference on International Conference on Computer Vision (ICCV)
+- **[2024]** Reviewer, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 
+- **[2024]** Reviewer, Advances in Neural Information Processing System (NeurIPS)
+- **[2024]** Reviewer, International Journal of Computer Vision (IJCV)
+-   
 ### Project <a id="project"></a>
 - **[Year–Present] Project Name**, Role (e.g., Researcher/Lead/Contributor)  
   - What you did (1–2 bullets)
