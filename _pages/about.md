@@ -17,23 +17,16 @@ I'm Research Student in the [Perceptual AI Lab at Chung-Ang University](https://
 <span class="tag"><strong>#Vision-Language</strong></span>
 <span class="tag"><strong>#Domain Generalization</strong></span>
 <span class="tag"><strong>#Image/Video Retrieval</strong></span>
-<span class="tag"><strong>#RepresentationLearning</strong></span>
-
-My research focuses on **image retrieval, multi-modal learning, video-based retrieval, and representation learning**.
-
-I am broadly interested in building learning systems that understand complex relationships across heterogeneous modalities and in developing scalable methods for robust representation learning.  
-If you are interested in my work or would like to discuss potential collaborations, feel free to reach out.
-
-
+<!-- <span class="tag"><strong>#RepresentationLearning</strong></span> -->
+I am passionate about multi-modal AI research, particularly at the intersection of vision and language understanding.
+My work focuses on image and video retrieval, domain generalization, and robust representation learning. I am interested in developing scalable learning systems that can understand complex relationships across heterogeneous modalities and generalize effectively to unseen domains.
 
 ## Publications <a id="publications"></a>
 
 ### International Journal/Conference <a id="pub-intl"></a>
-- **[Year]** *Title*, Venue (Journal/Conference), Authors.  
-  Links: [PDF](#) / [DOI](#) / [Code](#)
-
-- **[Year]** *Title*, Venue (Journal/Conference), Authors.  
-  Links: [PDF](#) / [DOI](#) / [Project](#)
+- **[2025]** *Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching*, **NeuroComputing**, vol. 649, pp. 130763-130782, Oct. 07, 2025 (ISSN: 0925-2312), **Hyunseo Lee**, Juhyun Park, Jihyong Oh, and Chanho Eom.
+*SCI Top 20%, Impact Factor: 6.5*  
+Links: [arXiv](https://arxiv.org/abs/2506.12413) [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225014353?dgcid=author) [Project page](https://github.com/PerceptualAI-Lab/Awesome-Domain-Generalizable-Person-Re-ID)
 
 ### Domestic Journal/Conference <a id="pub-domestic"></a>
 - **[Year]** *Title*, Venue (Journal/Conference), Authors.  
