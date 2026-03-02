@@ -14,10 +14,9 @@ redirect_from:
 
 I'm Research Student in the [Perceptual AI Lab at Chung-Ang University](https://sites.google.com/view/pai-lab/publications/publications-intl?authuser=0) 
 <br>
-<span class="tag"><strong>#ComputerVision</strong></span>
-<span class="tag"><strong>#MultiModal</strong></span>
-<span class="tag"><strong>#ImageRetrieval</strong></span>
-<span class="tag"><strong>#VideoRetrieval</strong></span>
+<span class="tag"><strong>#Vision-Language</strong></span>
+<span class="tag"><strong>#Domain Generalization</strong></span>
+<span class="tag"><strong>#Image/Video Retrieval</strong></span>
 <span class="tag"><strong>#RepresentationLearning</strong></span>
 
 My research focuses on **image retrieval, multi-modal learning, video-based retrieval, and representation learning**.
