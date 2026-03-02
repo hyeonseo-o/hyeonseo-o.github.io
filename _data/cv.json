@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Hyeonseo Lee",
+    "email": "hswith@cau.ac.kr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://hyeonseo-o.github.io",
+    "summary": "Currently employed at Chung-Ang University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Seoul",
+      "countryCode": "South Korea",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=wpVMJEoAAAAJ&hl=ko"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0009-0001-0845-0423"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "hyeonseo-o",
+        "url": "https://github.com/hyeonseo-o"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "Chung-Ang University",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2026",
+      "endDate": "in progress",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Chung-Ang University",
+      "area": "M.S. in AI imaging Department of Imaging Science and Arts",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2024",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Gachon University",
+      "area": "B.S. in Industrial Engineering and Software (Double Major)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2020",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     }
