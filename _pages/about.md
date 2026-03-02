@@ -25,7 +25,7 @@ My work focuses on image and video retrieval, domain generalization, and robust 
 
 ### International Journal/Conference <a id="pub-intl"></a>
 - **[2025]** *Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching*, **NeuroComputing**, vol. 649, pp. 130763-130782, Oct. 07, 2025 (ISSN: 0925-2312), **Hyunseo Lee**, Juhyun Park, Jihyong Oh, and Chanho Eom.
-*SCI Top 20%, Impact Factor: 6.5*  
+<br>*SCI Top 20%, Impact Factor: 6.5*  
 Links: [arXiv](https://arxiv.org/abs/2506.12413) [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225014353?dgcid=author) [Project page](https://github.com/PerceptualAI-Lab/Awesome-Domain-Generalizable-Person-Re-ID)
 
 ### Domestic Journal/Conference <a id="pub-domestic"></a>
