@@ -18,22 +18,33 @@ I'm Research Student in the [Perceptual AI Lab at Chung-Ang University](https://
 <span class="tag"><strong>#Domain Generalization</strong></span>
 <span class="tag"><strong>#Image/Video Retrieval</strong></span>
 <!-- <span class="tag"><strong>#RepresentationLearning</strong></span> -->
+<br>
 I am passionate about multi-modal AI research, particularly at the intersection of vision and language understanding.
 My work focuses on image and video retrieval, domain generalization, and robust representation learning. I am interested in developing scalable learning systems that can understand complex relationships across heterogeneous modalities and generalize effectively to unseen domains.
 
 ## Publications <a id="publications"></a>
 
 ### International Journal/Conference <a id="pub-intl"></a>
-- **[2025]** *Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching*, **NeuroComputing**, vol. 649, pp. 130763-130782, Oct. 07, 2025 (ISSN: 0925-2312), **Hyunseo Lee**, Juhyun Park, Jihyong Oh, and Chanho Eom.
-<br>*SCI Top 20%, Impact Factor: 6.5*  
+- **[2025]** *Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching*, **NeuroComputing**, vol. 649, pp. 130763-130782, Oct. 07, 2025 (ISSN: 0925-2312), **Hyeonseo Lee**, Juhyun Park, Jihyong Oh, and Chanho Eom.
+<br>
+<span class="impact-italic">
+*SCI Top 20%, Impact Factor: 6.5*
+</span>
 Links: [arXiv](https://arxiv.org/abs/2506.12413) [Paper](https://www.sciencedirect.com/science/article/pii/S0925231225014353?dgcid=author) [Project page](https://github.com/PerceptualAI-Lab/Awesome-Domain-Generalizable-Person-Re-ID)
 
 ### Domestic Journal/Conference <a id="pub-domestic"></a>
-- **[Year]** *Title*, Venue (Journal/Conference), Authors.  
-  Links: [PDF](#) / [DOI](#)
+- **[2025]** *텍스트를 활용한 범용적 사람 재식별을 위한 표현자 학습 연구 *, Fall Annual Conference of IEIE, Nov. 28, 2025, **Hyeonseo Lee** and Chanho Eom.
+  <br>
+  <span class="impact-highlight">
+  Excellence Paper Award
+  </span>
+  Links: [Paper](#) 
 
-- **[Year]** *Title*, Venue (Journal/Conference), Authors.  
-  Links: [PDF](#)
+- **[2025]** *인공지능을 활용한 메타버스기반 몰입형 예술 전시 플랫폼 구현*, Summer Annual Conference of IEIE, Jun. 27, 2025, Juhyun Park, Seongtae Hwang, Youngchae Kim, Giyeol Kim, **Hyeonseo Lee**, Gyuwon Han, Uksang Jang, Jongwon Choi, Jinwan Park, and Chanho Eom.  
+  Links: [Paper](#)
+  
+  - **[2025]** *Enhancing Motion Fluidity and Visual Consistency in Film Production with AI Generative Models *, Moving Image and Technology (MINT), vol. 5, no. 3, pp.1-8, Dec. 31, 2025 (ISSN: 2799-8177), **Hyeonseo Lee**, Changhyun Roh, Jihyong Oh, and Chanho Eom.  
+  Links: [Paper](#)
 
 ---
 
