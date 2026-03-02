@@ -82,7 +82,7 @@ If you are interested in my work or would like to discuss potential collaboratio
 
 ---
 
-## Technical Skills <a id="skills"></a>
+## Technical Skills <a id="others"></a>
 
 - **Programming Languages:** Python, C/C++, Java, …
 - **Frameworks / Libraries:** PyTorch, TensorFlow, Scikit-learn, …
