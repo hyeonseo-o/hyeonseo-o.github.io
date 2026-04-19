@@ -56,12 +56,13 @@ Links: [arXiv](https://arxiv.org/abs/2506.12413) [Paper](https://www.sciencedire
 ## Experiences <a id="experiences"></a>
 
 ### Reviewer <a id="reviewer"></a>
-- **[2024]** Reviewer, European Conference on Computer Vision (ECCV)
-- **[2024]** Reviewer, IEEE Conference on International Conference on Computer Vision (ICCV)
-- **[2024]** Reviewer, IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 
-- **[2024]** Reviewer, Advances in Neural Information Processing System (NeurIPS)
-- **[2024]** Reviewer, International Journal of Computer Vision (IJCV)
--   
+- [2024] Reviewer, European Conference on Computer Vision (ECCV)
+- [2025] Reviewer, IEEE/CVF International Conference on Computer Vision (ICCV)
+- [2025] Reviewer, Advances in Neural Information Processing Systems (NeurIPS)
+- [2025] Reviewer, AAAI Conference on Artificial Intelligence (AAAI)
+- [2026] Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL)
+
+<!-- 
 ### Project <a id="project"></a>
 - **[Year–Present] Project Name**, Role (e.g., Researcher/Lead/Contributor)  
   - What you did (1–2 bullets)
@@ -90,4 +91,4 @@ Links: [arXiv](https://arxiv.org/abs/2506.12413) [Paper](https://www.sciencedire
 - **Programming Languages:** Python, C/C++, Java, …
 - **Frameworks / Libraries:** PyTorch, TensorFlow, Scikit-learn, …
 - **Tools:** Git, Docker, Linux, …
-- **Research Keywords:** (e.g., RLHF, Retrieval, Diffusion, …)
+- **Research Keywords:** (e.g., RLHF, Retrieval, Diffusion, …)-->
